@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: #24353f;
+}
+input {
+  border: 1px solid;
+  border-radius: 10px;
+}
+form p a:hover {
+  text-decoration: underline !important;
+}
